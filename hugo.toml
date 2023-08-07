@@ -1,4 +1,4 @@
-baseURL = "pastelater"
+baseURL = "https://winse.blog.me"
 languageCode = "zh-cn"
 title = "winse's blog"
 theme = "github-style"

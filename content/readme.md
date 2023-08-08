@@ -13,6 +13,8 @@ A beggining pentester and Python, C++, web developer from Russia
 
 - 📫 How to reach me **Telegram @esniw**
 
+- 🇷🇺 RU / 🇩🇪 DE / 🇬🇧 🇺🇸 ENG
+
 - ⚡ Fun fact **i love anime :)**
 
 

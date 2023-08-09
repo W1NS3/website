@@ -1,6 +1,6 @@
 Hi 👋, I'm Danila Korabelnikov (16 y.o.)
 
-\nA beggining pentester and Python, C++, web developer from Russia
+ A beggining pentester and Python, C++, web developer from Russia
 
 - 🔭 I’m currently working on **my own cybersecurity start-up**
 

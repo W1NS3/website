@@ -16,7 +16,7 @@ Hi 👋, I'm Danila Korabelnikov (16 y.o.)
 
 - 🇷🇺 RU / 🇩🇪 DE / 🇬🇧 🇺🇸 ENG
 
-- ⚡ Fun fact **i love anime :)**
+
 
 
 

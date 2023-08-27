@@ -14,7 +14,7 @@ Hi 👋, I'm Danila Korabelnikov (16 y.o.)
 
 - 📫 How to reach me **Telegram @esniw**
 
-- 🇷🇺 RU / 🇩🇪 DE / 🇬🇧 🇺🇸 ENG
+- 🇷🇺 RU (C1) / 🇩🇪 DE (A1) / 🇬🇧 🇺🇸 ENG (B1-B2, can read technical literature)
 
 
 

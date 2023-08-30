@@ -10,7 +10,7 @@ Hi 👋, I'm Danila Korabelnikov (16 y.o.)
 
 - 📝 I regularly write articles on [https://t.me/zametkinfobeza](https://t.me/zametkinfobeza)
 
-- 💬 Ask me about **CTF**
+- 💬 Ask me about **CTF, Linux**
 
 - 📫 How to reach me **Telegram @esniw**
 
